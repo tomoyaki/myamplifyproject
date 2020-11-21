@@ -1,0 +1,14 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "myamplifyproject-test-20201121152645-authRole",
+            "UnauthRoleArn": "arn:aws:iam::770355690221:role/myamplifyproject-test-20201121152645-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::770355690221:role/myamplifyproject-test-20201121152645-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "myamplifyproject-test-20201121152645-deployment",
+            "UnauthRoleName": "myamplifyproject-test-20201121152645-unauthRole",
+            "StackName": "myamplifyproject-test-20201121152645",
+            "StackId": "arn:aws:cloudformation:us-east-1:770355690221:stack/myamplifyproject-test-20201121152645/87a9bcf0-2bc2-11eb-a605-0e09be17e2fd"
+        }
+    }
+}
